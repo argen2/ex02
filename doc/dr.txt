@@ -1,0 +1,7 @@
+ex02
+
+README.md
+ajouter le nom du cours
+
+formater le code; voir https://www.dartlang.org/articles/style-guide/
+
